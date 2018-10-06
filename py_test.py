@@ -1,1 +1,2 @@
-print("Hello world")
+print("world")
+#Got rid of the hello part
